@@ -1,0 +1,1 @@
+A copy of http://solidservices.codeplex.com/ by @dot_NET_Junkie thta i just keep here for ease of access.  No one uses codeplex right?! ;-)
